@@ -2,7 +2,14 @@ import random
 import HangManPics
 import FruitNames
 lives=6
-print("---------Welcome to HangMan Game----------")
+print("""                                  
+| |                                            
+| |__   __ _ _ __   __ _ _ __ ___   __ _ _ __  
+| '_ \ / _` | '_ \ / _` | '_ ` _ \ / _` | '_ \ 
+| | | | (_| | | | | (_| | | | | | | (_| | | | |
+|_| |_|\__,_|_| |_|\__, |_| |_| |_|\__,_|_| |_|
+                    __/ |                      
+                   |___/     """)
 choosen_name=random.choice(FruitNames.fruits).lower()
 
 display=[]
