@@ -410,4 +410,5 @@ As I learn more Python, I can improve the calculator by:
 * Adding an exit option
 * Improving the calculator interface
 
-Through this project, I practiced functions, dictionaries, loops, return values, custom modules, and dynamic function calls while building an interactive calculator.
+Through this project, I practiced functions, dictionaries, loops, return values, custom modules, and dynamic function calls while building an interactive calculator.           
+
